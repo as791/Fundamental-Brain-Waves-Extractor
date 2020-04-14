@@ -1,4 +1,4 @@
-# Brain_Wave_Extraction
+# Brain Wave Analyzer
 Different patterns of brainwaves can be recognized by their amplitudes and frequencies. Brainwaves can then be categorized based on their level of activity or frequency. It’s important to remember, though, that brainwaves are not the source or the cause of brain states, or of our experiences of our own minds – they’re just some of the detectable reflections of the complex processes in the brain that produce our experience of being, thinking, and perceiving.
 
 The five Brain Waves are:-
