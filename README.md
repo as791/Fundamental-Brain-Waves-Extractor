@@ -22,3 +22,10 @@ There are two types of methods avaible either one can see specific extracted wav
 The sample results are shown below:-
 ![](/test_image-1.png)
 ![](/test_image-2.png)
+
+The sample results below specifications:-
+* Passband edge frequency(ies) error from the desired frequency range (Hz) = 1 Hz
+* Transition Bandwith (Hz) = 3 Hz
+* Passband Attenuation (dB) = 1 dB
+* Stopband Attenuation (dB) = 40 dB
+* Sampling Rate / Sampling Frequency (Hz) = 200 Hz
